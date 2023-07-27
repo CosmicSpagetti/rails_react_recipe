@@ -8,4 +8,4 @@ document.addEventlistener("turbo:load", () => {
     document.body.appendChild(document.createElement("div"))
   );
   root.render(<App />);
-})
+});
